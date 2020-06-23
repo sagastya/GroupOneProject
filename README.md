@@ -6,11 +6,10 @@ The purpose of this project is to create a Data Analysis project using Python an
 
 Our motivation is to answer the question: ***Is there a correlation between President Trump's tweets and market prices?***
   
-We used 2 methods to derive at the conclusion: *Visualization Plots and Regression Analysis*. 
-Our conclusion is in two parts: 
-  1. With the Plots we do see a correlation between Tweets and Stock prices.
+We used 2 methods to arrive at the conclusion: *Visualization Plots and Regression Analysis*.  
+  1. With the Plots we did see a correlation between Tweets and Stock prices.
   2. With Regression Analysis we found that it's not just the Tweets that affect the Stocks, there are other factors that affect them as well.
-
+  
 ### Tools used in this Project:
     1. Microsoft Excel
     2. Python
@@ -26,5 +25,6 @@ Our conclusion is in two parts:
 Thanks to the following people who have contributed to this project:
     
     * @Atlchris67
-    * Donatien Toni
-    * Nirguna Joshi (Presentation)
+    * @tdona10
+    * @nirgunjoshi
+
