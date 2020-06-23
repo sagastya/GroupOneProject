@@ -2,7 +2,7 @@
 
 ## Trump, Tweets and Trade!!!
 
-The purpose of this project is to create a Python Data Analysis project collaboration with Git. Trump, Tweets and Trade!!! is an analysis of Trump's Tweets and how it affects the stock market prices and figure out if there is a correlation or not. Data exploration and cleanup was performed with Excel and Pandas while Matplotlib was used for Time Series visualizations of the data. 
+The purpose of this project is to create a Data Analysis project using Python and project collaboration with Git. Trump, Tweets and Trade!!! is an analysis of Trump's Tweets and how it affects the stock market prices and figure out if there is a correlation or not. Data exploration and cleanup was performed with Excel and Pandas while Matplotlib was used for Time Series visualizations of the data. 
 
 Our motivation is to answer the question: 
   **Is there a correlation between President Trump's tweets and market prices?**
