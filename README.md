@@ -20,10 +20,7 @@ We used 2 methods to arrive at the conclusion: *Visualization Plots and Regressi
         * os
     3. Jupyter Notebook
       
-### Contributors
-
-Thanks to the following people who have contributed to this project:
-    
+### Credits
     * @Atlchris67
     * @tdona10
     * @nirgunjoshi
