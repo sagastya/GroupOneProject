@@ -11,14 +11,14 @@ We used 2 methods to arrive at the conclusion: *Visualization Plots and Regressi
   2. With Regression Analysis we found that it's not just the Tweets that affect the Stocks, there are other factors that affect them as well.
   
 ### Tools used in this Project:
-    1. Microsoft Excel
-    2. Python
-         Libraries:
-          *  Pandas 
-          *  matplotlib
-          *  datetime
-          *  os
-    3. Jupyter Notebook
+  1. Microsoft Excel
+  2. Python
+       Libraries:
+       * Pandas 
+       *  matplotlib
+       * datetime
+       * os
+  3. Jupyter Notebook
       
 ### Credits
     * @Atlchris67
