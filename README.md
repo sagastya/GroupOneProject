@@ -13,11 +13,11 @@ We used 2 methods to arrive at the conclusion: *Visualization Plots and Regressi
 ### Tools used in this Project:
     1. Microsoft Excel
     2. Python
-       Libraries:
-        * Pandas 
-        * matplotlib
-        * datetime
-        * os
+         Libraries:
+          *  Pandas 
+          *  matplotlib
+          *  datetime
+          *  os
     3. Jupyter Notebook
       
 ### Credits
