@@ -15,7 +15,7 @@ We used 2 methods to arrive at the conclusion: *Visualization Plots and Regressi
   2. Python
        Libraries:
        * Pandas 
-       *  matplotlib
+       * Matplotlib
        * datetime
        * os
   3. Jupyter Notebook
